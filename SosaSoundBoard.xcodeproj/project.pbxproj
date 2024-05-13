@@ -14,6 +14,7 @@
 		B49B1E302BF2952D00D661BC /* SosaSoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B49B1E2E2BF2952D00D661BC /* SosaSoundBoard.xcdatamodeld */; };
 		B49B1E322BF2953300D661BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B49B1E312BF2953300D661BC /* Assets.xcassets */; };
 		B49B1E352BF2953300D661BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B49B1E332BF2953300D661BC /* LaunchScreen.storyboard */; };
+		B49B1E3D2BF29E3500D661BC /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49B1E3C2BF29E3500D661BC /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B49B1E312BF2953300D661BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B49B1E342BF2953300D661BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B49B1E362BF2953300D661BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B49B1E3C2BF29E3500D661BC /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B49B1E272BF2952D00D661BC /* SceneDelegate.swift */,
 				B49B1E292BF2952D00D661BC /* ViewController.swift */,
 				B49B1E2B2BF2952D00D661BC /* Main.storyboard */,
+				B49B1E3C2BF29E3500D661BC /* SoundViewController.swift */,
 				B49B1E312BF2953300D661BC /* Assets.xcassets */,
 				B49B1E332BF2953300D661BC /* LaunchScreen.storyboard */,
 				B49B1E362BF2953300D661BC /* Info.plist */,
@@ -145,6 +148,7 @@
 				B49B1E262BF2952D00D661BC /* AppDelegate.swift in Sources */,
 				B49B1E302BF2952D00D661BC /* SosaSoundBoard.xcdatamodeld in Sources */,
 				B49B1E282BF2952D00D661BC /* SceneDelegate.swift in Sources */,
+				B49B1E3D2BF29E3500D661BC /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
